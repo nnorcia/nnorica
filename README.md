@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nnorcia
 - 👀 I’m interested in ... data analytics.
-- 🌱 I’m currently making a stock predictive software.
 - 💞️ I’m looking to collaborate on stocks, baseball, or anything I find interesting.
 - 📫 How to reach me ...
 
